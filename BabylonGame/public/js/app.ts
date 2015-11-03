@@ -44,7 +44,7 @@ class Chapayev {
         this.runGame();
 
         window.addEventListener("resize", e => this.engine.resize());
-        this.scene.registerBeforeRender(this.beforeRender.bind(this)));
+        this.scene.registerBeforeRender(this.beforeRender.bind(this));
     }
 
     private initScene() {
