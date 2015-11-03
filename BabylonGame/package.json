@@ -1,0 +1,16 @@
+{
+  "name": "BabylonGame",
+  "version": "0.0.0",
+  "description": "BabylonGame",
+  "main": "app.js",
+  "author": {
+    "name": "vesel",
+    "email": ""
+  },
+  "dependencies": {
+    "babylon": "^6.0.14",
+    "babylonjs": "^2.2.0",
+    "body-parser": "^1.14.1",
+    "serve-favicon": "^2.3.0"
+  }
+}
